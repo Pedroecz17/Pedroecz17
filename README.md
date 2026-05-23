@@ -9,7 +9,7 @@
 
 Just a curiosity-driven human like **you**. Currently in the Ecuador Time Zone (ECT) 🇪🇨
 
-Engineering robotic systems is what I do most and I love it. Right now I'm working on:
+Engineering robotic systems is what I do and love most. Right now I'm working on:
 
 TODO!
 [<img src="assets/example.png" alt="example" height="150px">]()
@@ -18,7 +18,7 @@ TODO!
 
 Robotics is a wonderful field with plenty of beautiful problems to solve. Let's tackle them **together**.
 
-
+In my free time I like to play Catan, read, write and watch [Melodysheep videos](https://www.youtube.com/@melodysheep)
 <!--
 ## 🌱 I’m currently learning
 
