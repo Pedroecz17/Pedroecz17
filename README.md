@@ -22,7 +22,7 @@ Engineering robotic systems is what I do and love most. In my free time I like t
 
 TODO!
 
-[<img src="assets/example.png" alt="example" height="150px">]()
+[<img src="assets/macros2_map.png" alt="Lightweight VM tailored for production-level ROS2 development with VNC, Docker and VSCode workflow" height="150px">]()
 [<img style="margin-left: 6.5px" src="assets/example.png" alt="example" height="150px">]()
 [<img src="/assets/loadertemplate.gif" width="150">]()
 
