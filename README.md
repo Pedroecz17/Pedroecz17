@@ -11,11 +11,8 @@ Just a curiosity-driven human like **you**. Currently in the Ecuador Time Zone (
 
 Engineering robotic systems is what I do most and I love it. Right now I'm working on:
 
-TODO!
-<!--
 [<img src="assets/example.png" alt="example" height="150px">]()
 [<img style="margin-left: 6.5px" src="assets/example.png" alt="example" height="150px">]()
--->
 
 Robotics is a wonderful field with plenty of beautiful problems to solve. Let's tackle them **together**.
 
@@ -64,7 +61,7 @@ Robotics is a wonderful field with plenty of beautiful problems to solve. Let's 
 [<img src="assets/wdh-tsconfig.png" height="100px">](https://medium.com/workingdevshero/copilot-tips-tsconfig-6d24e1fba9c4)
 -->
 
-## Contact me
+## Reach out!
 
 [Mail](mailto:pedroecarrionz@gmail.com)  ||  [X](https://x.com/pedroecarrion)
 
