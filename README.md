@@ -9,7 +9,7 @@
 
 Just a curiosity-driven human like **you**. Currently in the Ecuador Time Zone (ECT) 🇪🇨
 
-Engineering robotic systems is what I do and love most. In my free time I like to play Catan, read, write and watch [Melodysheep videos](https://www.youtube.com/@melodysheep)
+Engineering robotic systems is what I do and love most. In my free time I like to play Catan, read, write and watch [Melodysheep's videos](https://www.youtube.com/@melodysheep)
 
 
 Right now I'm working on:
