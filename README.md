@@ -14,7 +14,7 @@ Engineering robotic systems is what I do most and I love it. Right now I'm worki
 TODO!
 [<img src="assets/example.png" alt="example" height="150px">]()
 [<img style="margin-left: 6.5px" src="assets/example.png" alt="example" height="150px">]()
-![Example gif](./assets/loadertemplate.gif)
+[<img src="/assets/loadertemplate.gif" width="150">]()
 
 Robotics is a wonderful field with plenty of beautiful problems to solve. Let's tackle them **together**.
 
