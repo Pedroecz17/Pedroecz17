@@ -62,7 +62,7 @@ Robotics is a wonderful field with plenty of beautiful problems to solve. Let's 
 [<img src="assets/wdh-tsconfig.png" height="100px">](https://medium.com/workingdevshero/copilot-tips-tsconfig-6d24e1fba9c4)
 -->
 
-## Reach out!
+#### Reach out!
 
 [Mail](mailto:pedroecarrionz@gmail.com)  ||  [X](https://x.com/pedroecarrion)
 
