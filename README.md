@@ -11,10 +11,17 @@ Just a curiosity-driven human like **you**. Currently in the Ecuador Time Zone (
 
 Engineering robotic systems is what I do and love most. In my free time I like to play Catan, read, write and watch [Melodysheep's videos](https://www.youtube.com/@melodysheep)
 
+###### Main Focus Areas
+- ROS 2
+- Robotics Hardware CAD
 
-Right now I'm working on: ☢︎⚙︎⚠︎⚜︎
+  Learning...
+  - Embedded systems with Rust (embassy_rs)
+---
+###### ⚠︎ Right now I'm working on ⚠︎
 
 TODO!
+
 [<img src="assets/example.png" alt="example" height="150px">]()
 [<img style="margin-left: 6.5px" src="assets/example.png" alt="example" height="150px">]()
 [<img src="/assets/loadertemplate.gif" width="150">]()
