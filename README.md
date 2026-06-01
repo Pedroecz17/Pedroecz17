@@ -72,7 +72,7 @@ Robotics is a wonderful field with plenty of beautiful problems to solve. Let's 
 
 ### Reach out!
 
-#### [Mail](mailto:pedroecarrionz@gmail.com)  ||  [X](https://x.com/pedroecarrion)
+#### [Mail](mailto:pedroecarrionz@gmail.com)  /  [X](https://x.com/pedroecarrion)
 
 
 <!--
