@@ -9,16 +9,16 @@
 
 Just a curiosity-driven human like **you**. Currently in the Ecuador Time Zone (ECT) 🇪🇨
 
-Engineering robotic systems is what I do and love most. In my free time I like to play Catan, read, [write](https://substack.com/@pedrocarrin) and watch [Melodysheep's videos](https://www.youtube.com/@melodysheep)
+Engineering robotic systems is what I do and love most.
 
 ###### Main Focus Areas
 - ROS 2
 - Robotics Hardware CAD
 
-  Learning...
+###### Learning...
   - Embedded systems with Rust (embassy_rs)
 ---
-###### ⚠︎ Right now I'm working on ⚠︎
+###### Right now I'm working on
 
 [<img src="assets/TODO.png" alt="TODO" height="200px">]()
 [<img style="margin-left: 6.5px" src="assets/TODO.png" alt="example" height="150px">]()
@@ -70,7 +70,7 @@ Robotics is a wonderful field with plenty of beautiful problems to solve. Let's 
 [<img src="assets/wdh-tsconfig.png" height="100px">](https://medium.com/workingdevshero/copilot-tips-tsconfig-6d24e1fba9c4)
 -->
 
-### Reach out!
+### Reach out
 
 #### [Mail](mailto:pedroecarrionz@gmail.com)  /  [X](https://x.com/pedroecarrion)
 
